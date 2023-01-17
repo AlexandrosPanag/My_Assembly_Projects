@@ -20,40 +20,33 @@ Original Source can be found here :https://sweetcode.io/building-first-simple-pr
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 MIPS Hello World
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-EN: MIPS ASSEMBLY - Hello World Project - a basic project made to print out a message on MIPS assembly with a text saying "Hello World" - it can be compiled in the QtSpim Assembler.
+---
+MIPS ASSEMBLY - Hello World Project - a basic project made to print out a message on MIPS assembly with a text saying "Hello World" - it can be compiled in the QtSpim Assembler.
 
 
 
-GR: Assembly για MIPS - Hello World Project - ένα βασικό project δημιουργημένο για την εμφάνιση του μηνύματος "Hello World" γραμμένο σε Assembly για MIPS, μπορεί να μεταγλωττιστεί στον Assembler "QtSpim"
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 MIPS Calculator
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-GR: Πρόγραμμα αριθμομηχανής γραμμένο σε γλώσσα assembly για MIPS! 
-
-
-EN: A MIPS assembly calculator program has been written on MIPS assembly!
+---
+ A MIPS assembly calculator program has been written on MIPS assembly!
 
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 For_Loop_In_MIPS.s
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 GR: Πρόγραμμα που μπορεί να υλοποιήσει for loop() και να κάνει counter $a=$a+$t0! 
 
 
 EN: A MIPS assembly program which can initialize a for loop() and counter $a=$a+$t0!
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 PIN PASSWORD PROGRAM.s
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-GR: Πρόγραμμα που μπορεί να ελέγξει εάν ο 4ψήφιος αριθμός PIN που δώσαμε είναι σωστός ή όχι
-
-  
-EN: A program that can determine whether the 4-digit PIN password that we have given is correct or not.
+---
+A program that can determine whether the 4-digit PIN password that we have given is correct or not.
