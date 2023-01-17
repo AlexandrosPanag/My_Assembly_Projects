@@ -14,7 +14,7 @@ MIPS assembly language simply refers to the assembly language of the MIPS proces
 The MIPS assembly language is a very useful language to learn because many embedded systems run on the MIPS processor. Knowing how to code in this language brings a deeper understanding of how these systems operate on a lower level.
 
 
-UPDATE 5/12/2022: Check out my Arduino Archive which contains new Assembly solutions: https://github.com/AlexandrosPanag/My_Arduino_Projects
+UPDATE 2023: WORK IN PROGRESS: Check out my Arduino Archive which contains new Assembly solutions: https://github.com/AlexandrosPanag/My_Arduino_Projects/tree/main/Assembly
 
 Original Source can be found here :https://sweetcode.io/building-first-simple-program-mips-assembly-language/#:~:text=MIPS%20assembly%20language%20simply%20refers%20to%20the%20assembly,architecture%20developed%20by%20an%20organization%20called%20MIPS%20Technologies.
 
