@@ -1,5 +1,9 @@
 My Assembly Repository
 ----
+
+<img src="https://img.shields.io/bower/l/mi">
+Credits: [@alexandrospanag](https://github.com/alexandrospanag)
+
 Compiler (IDE) used:https://qtspim.software.informer.com
 
 
