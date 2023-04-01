@@ -4,7 +4,7 @@ Compiler (IDE) used:https://qtspim.software.informer.com
 
 
 
-What is assembly language?
+What is the Assembly language?
 ----
 
 
