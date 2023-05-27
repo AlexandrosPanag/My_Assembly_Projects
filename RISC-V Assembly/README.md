@@ -12,4 +12,4 @@ Why RISC-V?
 
 Risc-V is designed to be free and open without being hindered by restrictive license. The RISC-V Instruction set is also designed to be clean and more simple. Reduced Instruction Set Computer (RISC) architecture had its beginnings in research projects conducted by John L. Hennsesy at Standford University between 1981 and 1984. MIPS (Microcontroller without Interlock Pipeline Stages) was developed with the IBM 801 and the Berkley RISC Projects who coined the term RISC.
 
-This article is based upon the pioneering book by Warren Gay.
+This article is taken from the pioneering book " RISC-V Assembly Language Programming Using the ESP32-C32 and QEMU " by Warren Gay.
