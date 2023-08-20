@@ -1,4 +1,4 @@
-EXPECTED REPOSITORY RELEASE END OF 2023
+EXPECTED REPOSITORY RELEASE END OF 2024-2025.
 ------------------------------
 
 Risc-V Assembly Repository
