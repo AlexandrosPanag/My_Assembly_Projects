@@ -1,7 +1,3 @@
-Lesson 1
----
-Understanding basic MIPS Commands & introduction to the MIPS Assembly.
-
 ADD
 ---
 
